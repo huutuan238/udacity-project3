@@ -140,9 +140,9 @@ The Nginx container will expose 8080 port. The configuration file above, in the 
 At this moment, your project directory would have the following structure:
 ```bash
 .
-├── udagram-api-feed
+├── udagram-api-feed-feed
 │   └── src
-├── udagram-api-user
+├── udagram-api-feed-user
 │   └── src
 ├── udagram-frontend
 │   └── src
